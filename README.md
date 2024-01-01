@@ -10,7 +10,7 @@
  - Soch College of IT(Bachelor running)
 
 ### Experience
- - Flutter Intership at Thulo Technology
+ - Flutter Internship at Thulo Technology
 
 ### Skills
  - Dart
