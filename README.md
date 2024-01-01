@@ -1,16 +1,18 @@
-### Hi there 👋
+### Jasmin Thapa
+   Hello I am Jasmin Thapa ,Flutter developer from Nepal.Currently doing internership at Thulo Technology.I am CSIT student doing my bachelors from Soch College of IT.
 
-<!--
-**Jasminthapa/Jasminthapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me
+ - [Linked In] (https://np.linkedin.com/in/jasmin-thapa-7b89b11a2)
 
-Here are some ideas to get you started:
+### Education
+ - Fishtail Academy Secondary School(SEE 2073)
+ - Chhorepatan Secondary School(+2 2076)
+ - Soch College of IT(Bachelor running)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+ - Flutter Intership at Thulo Technology
+
+### Skills
+ - Dart
+ - Flutter
+ 
