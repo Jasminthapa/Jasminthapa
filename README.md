@@ -1,5 +1,5 @@
 ### Jasmin Thapa
-   Hello I am Jasmin Thapa ,Flutter developer from Nepal.Currently doing internership at Thulo Technology.I am CSIT student doing my bachelors from Soch College of IT.
+   Hello I am Jasmin Thapa ,Flutter developer from Nepal. I am CSIT student doing my bachelors from Soch College of IT.
 
 ### Connect with me
  - [Linked In](https://np.linkedin.com/in/jasmin-thapa-7b89b11a2)
